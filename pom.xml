@@ -76,7 +76,7 @@
 
                 <configuration>
                     <!--配置文件的路径-->
-                    <configurationFile>../mybatis-generator/src/main/resources/generatorConfig.xml</configurationFile>
+                    <configurationFile>../util-mybatis-generator/src/main/resources/generatorConfig.xml</configurationFile>
                     <overwrite>true</overwrite>
                     <verbose>true</verbose>
                 </configuration>
